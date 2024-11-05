@@ -21,7 +21,7 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.duc.phan2408.vCarbon",
-      "config": {"googleMaps": {"apiKey": "AIzaSyBmyyh1Kry00sgWeOJFJ75T3ubwghbXyDg"}}
+      "config": {"googleMaps": {"apiKey": ""}}
     },
     "web": {
       "bundler": "metro",
