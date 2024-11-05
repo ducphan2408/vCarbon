@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "start": "vite --open",
+    "start-local": "vite --config ../vite.config.local.js",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-gl-draw": "^1.3.0",
+    "@turf/area": "^6.5.0",
+    "@types/mapbox__mapbox-gl-draw": "^1.2.3",
+    "@vis.gl/react-google-maps": "^1.1.0",
+    "axios": "^1.7.5",
+    "bootstrap": "^5.3.3",
+    "i18next": "^23.13.0",
+    "i18next-browser-languagedetector": "^8.0.0",
+    "i18next-http-backend": "^2.5.2",
+    "mapbox-gl": "^2.0.0",
+    "react": "^18.0.0",
+    "react-bootstrap": "^2.10.4",
+    "react-dom": "^18.0.0",
+    "react-i18next": "^15.0.1",
+    "react-map-gl": "^7.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "vite": "^4.0.0"
+  },
+  "proxy" : "https://vcarbon-e228b1daa9a1.herokuapp.com/"
+}

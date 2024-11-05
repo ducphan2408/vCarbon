@@ -1,0 +1,18 @@
+{
+  "translation": {
+    "wbd": "WBD - Wood Basic Density",
+    "currency": "Currency value (VND)",
+    "modalMap": "Illustration of how to measure area",
+    "modalDbh": "Illustration of how to measure DBH",
+    "res": "Carbon Credits (Tons)",
+    "cal": "Calculate biomass",
+    "area": "Area",
+    "number": "Number of trees",
+    "dbh": "DBH - Body diameter",
+    "tree": "Plant type",
+    "delete": "Delete",
+		"draw": "Draw",
+    "area-res": "Area is:",
+    "area-err": "At least 3 points are required"
+  }
+}

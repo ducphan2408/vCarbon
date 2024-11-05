@@ -1,0 +1,18 @@
+{
+  "translation": {
+    "wbd": "WBD - Mật độ cơ bản của gỗ",
+    "currency": "Giá trị tiền tệ (Đồng)",
+    "modalMap": "Minh hoạ cách đo diện tích",
+    "modalDbh": "Minh hoạ cách đo DBH",
+    "res": "Tín chỉ Carbon (Tấn)",
+    "cal": "Tính sinh khối",
+    "area": "Diện tích",
+    "number": "Số cây",
+    "dbh": "DBH - Đường kính thân",
+    "tree": "Loại cây",
+		"delete": "Xoá",
+		"draw": "Vẽ",
+		"area-res": "Diện tích là:",
+		"area-err": "Cần có ít nhất 3 điểm"
+  }
+}

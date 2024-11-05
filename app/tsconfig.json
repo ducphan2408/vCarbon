@@ -1,0 +1,25 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    },
+    "jsx": "react-native", // or "react-native" if you are using React Native
+    "allowJs": true, // allows JS files to be compiled
+    "target": "ES6", // specify ECMAScript target version
+    "module": "commonjs", // specify module code generation
+    "esModuleInterop": true, // allows default imports from modules with no default export
+    "skipLibCheck": true, // skips type checking of declaration files
+    "forceConsistentCasingInFileNames": true // ensures consistent casing in import paths
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+  ],
+  
+}
